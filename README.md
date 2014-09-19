@@ -1,6 +1,3 @@
-## Study Lua
-	Record the way of Learning Lua
-
 ## Convert js to xml for Ant
 	1、execute "node jsToXML.js"
 	2、it can read data from "main.js" to create a xml file 
